@@ -7,7 +7,11 @@
 <a href="https://github.com/VuDej/video-chat-react.git#readme"><strong>Explore the docs »</strong></a>
 <br />
 <br />
+<<<<<<< HEAD
  <a href="">View Demo</a>
+=======
+ <a href="https://video-chat-dejan.netlify.app/">View Demo</a>
+>>>>>>> d078c7dc23a1c36a1c740f3628e38cb202d33718
 .
 <a href="https://github.com/VuDej/video-chat-react.git/issues">Report Bug</a>
 ·
@@ -18,7 +22,11 @@
 
 ## Screenshots
 
+<<<<<<< HEAD
 ![Screenshot](./screenshot.png)
+=======
+![Screenshot]()
+>>>>>>> d078c7dc23a1c36a1c740f3628e38cb202d33718
 
 ## Description 🏗️
 
@@ -174,4 +182,8 @@ This project is licensed by [![License: MIT](https://img.shields.io/badge/Licens
 Give a ⭐️ if you like this project!
 
 
+<<<<<<< HEAD
 <p align="right">(<a href="#top">back to top</a>)</p>
+=======
+<p align="right">(<a href="#top">back to top</a>)</p>
+>>>>>>> d078c7dc23a1c36a1c740f3628e38cb202d33718
