@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](./screenshot.png)
 
 ## Description 🏗️
 
