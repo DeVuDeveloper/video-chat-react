@@ -1,4 +1,4 @@
-# Video Chat
+# Video Chat - React
 
 <div id="top"></div>
 <!-- PROJECT LOGO -->
