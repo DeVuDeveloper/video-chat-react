@@ -7,7 +7,7 @@
 <a href="https://github.com/VuDej/video-chat-react.git#readme"><strong>Explore the docs »</strong></a>
 <br />
 <br />
- <a href="">View Demo</a>
+ <a href="https://video-chat-dejan.netlify.app/">View Demo</a>
 .
 <a href="https://github.com/VuDej/video-chat-react.git/issues">Report Bug</a>
 ·
